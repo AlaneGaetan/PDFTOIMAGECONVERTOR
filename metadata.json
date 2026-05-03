@@ -1,6 +1,6 @@
 {
-  "name": "Convertio: Image & PDF",
-  "description": "Convert images to PDF and extract images from PDF files.",
+  "name": "Math Sonifier",
+  "description": "Type any mathematical function to hear what it sounds like.",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
